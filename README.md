@@ -4,4 +4,4 @@ Master of Science thesis research (2022-2024) for **Auburn University, College o
 
 In the eastern United States, the raccoon (Procyon lotor) is the primary reservoir for the rabies virus. As of 2024, Alabama marks the westernmost boundary of the raccoon rabies virus variant in the U.S. This project is grounded in a One Health approach, emphasizing that effective rabies management not only protects public health but also reduces risks to pets, livestock, and wildlife conservation. The successful implementation of a wildlife rabies control program in Alabama demands cross-sector collaboration, combining surveillance, vaccination, and education efforts to minimize the disease's impact.
 
-![Raccoon taking V-RG bait in Baldwin County, AL](GALLERY/b3cf9a09-e339-4e8b-aecb-627c2a53512f.jpg)
+![Raccoon](GALLERY/8fcf89d1-e052-48d2-8c4d-60dd5e1ec079.jpg)
